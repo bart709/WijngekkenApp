@@ -2,17 +2,17 @@
     <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap       = "http://phonegap.com/ns/1.0"
         xmlns:android   = "http://schemas.android.com/apk/res/android"
-        id              = "com.phonegap.example"
+        id              = "nl.wijngekken.app"
         version         = "1.0.0" >
 
     <name>PhoneGap Example</name>
 
     <description>
-        An example for phonegap build docs. 
+        Wijngekken, een neus voor goede wijn! 
     </description>
 
-    <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Hardeep Shoker 
+    <author href="http://www.wijngekken.nl/" email="info@wijngekken.nl">
+        e-mail wijngekken
     </author>
     
     
