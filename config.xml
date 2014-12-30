@@ -3,9 +3,9 @@
         xmlns:gap       = "http://phonegap.com/ns/1.0"
         xmlns:android   = "http://schemas.android.com/apk/res/android"
         id              = "nl.wijngekken.app"
-        version         = "1.0.0" >
+        version         = "0.0.1" >
 
-    <name>PhoneGap Example</name>
+    <name>Wijngekken</name>
 
     <description>
         Wijngekken, een neus voor goede wijn! 
